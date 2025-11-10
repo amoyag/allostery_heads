@@ -8,3 +8,4 @@ __pycache__/allosteric_analyzer.cpython-311.pyc
 attention_data/sensitive_attention_maps.pt
 attention_data/sensitive_heads.pt
 __pycache__/allosteric_analyzer.cpython-311.pyc
+.DS_Store
