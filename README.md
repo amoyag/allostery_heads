@@ -46,7 +46,7 @@ conda activate esm-env
 pip install torch fair-esm numpy pandas tqdm
 ```
 
-For M1 Macs you need PyTorch with MPS support instead of CUDA.
+For Apple Silicon Macs you need PyTorch with MPS support instead of CUDA.
 
 ```python
 import torch
